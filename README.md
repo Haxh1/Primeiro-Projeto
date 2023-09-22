@@ -9,7 +9,7 @@
   <body>
     <h1>Tags em HTML</h1>
     <p>
-      em HTML5, podemos iserir os elementos da lista a seguir. passe o mouse
+      em HTML5, podemos iserir os elementos da lista a seguir.<br>passe o mouse
       sobre os termos para descobrir qual tag devera utilizar em cada caso
     </p>
     <ul>
