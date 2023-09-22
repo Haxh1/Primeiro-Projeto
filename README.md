@@ -1,5 +1,4 @@
-# Primeiro-Projeto
-'<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -24,4 +23,4 @@
     </ul>
     <img src="" alt="" />
   </body>
-</html>'
+</html>
